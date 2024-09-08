@@ -1,6 +1,7 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'https://www.enji.dev',
+  siteUrl:
+    'https://enji-dev-enji-dev-git-main-kratos-projects-1d0ca9c6.vercel.app/',
   priority: 0.6,
   generateRobotsTxt: true,
   generateIndexSitemap: false,
